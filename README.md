@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alastair</h1>
 <h3 align="center">A software developer from Canada.</h3>
 
-- 🌱 I’m currently learning **Unreal Engine.**
+- 🌱 I’m currently learning [**Unreal Engine**](https://www.unrealengine.com/en-US).
 
 - 💬 Ask me about **my passion for making learning fun and my projects with local AI!**
 
