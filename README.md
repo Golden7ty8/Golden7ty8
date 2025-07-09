@@ -7,109 +7,109 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <span title="Unity"> <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity"  /> </span>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <span title="C#"> <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <span title="C++"> <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <span title="C"> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <span title="Python"> <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <span title="Java"> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <span title="JavaScript"> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <span title="HTML"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <span title="CSS"> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <span title="Bash"> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash"  /> </span>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <span title="Git"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <span title="GitHub"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  /> </span>
   <img width="12" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <span title="PyTorch"> <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  /> </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+  <span title="TensorFlow"> <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <span title="Markdown"> <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <span title="Node.js"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <span title="npm"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <span title="Vite"> <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <span title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"  /> </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <span title="Three.js"> <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs"  /> </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+  <span title="LaTeX"> <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex"  /> </span>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <span title="Apache Maven"> <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven"  /> </span>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla logo"  />
+  <span title="NumPy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"  /> </span>
+  <img width="12" />
+  <span title="PuTTY"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty"  /> </span>
+</div>
+
+###
+
+<div align="left">
+  <span title="Jira"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira"  />
+  <img width="12" />
+  <span title="Trello"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello"  />
+</div>
+
+###
+
+<div align="left">
+  <span title="Discord"> <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord"  /> </span>
+  <img width="12" />
+  <span title="Slack"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack"  /> </span>
+  <img width="12" />
+</div>
+
+###
+
+<div align="left">
+  <span title="Linux"> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"  /> </span>
+  <img width="12" />
+  <span title="Unix"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix"  /> </span>
+  <img width="12" />
+  <span title="Visual Studio"> <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio"  /> </span>
+  <img width="12" />
+  <span title="Visual Studio Code"> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  /> </span>
+  <img width="12" />
+  <span title="PyCharm"> <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm"  /> </span>
+  <img width="12" />
+  <span title="IntelliJ"> <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea"  /> </span>
+  <img width="12" />
+  <span title="Blender"> <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender"  /> </span>
+  <img width="12" />
+  <span title="GIMP"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp"  /> </span>
+  <img width="12" />
+  <span title="Inkscape"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape"  /> </span>
+  <img width="12" />
+  <span title="Raspberry Pi"> <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi"  /> </span>
+  <img width="12" />
+  <span title="FileZilla"> <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="40" alt="filezilla"  /> </span>
 </div>
 
 ###
