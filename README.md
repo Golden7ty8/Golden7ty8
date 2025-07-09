@@ -115,7 +115,7 @@
 ###
 
 
-<hr>
+<h2></h2>
 <h3 align="left">Special thanks to rahuldkjain & Mauro de Souza for their README generators:</h3>
 
 - https://rahuldkjain.github.io/gh-profile-readme-generator
