@@ -5,6 +5,12 @@
 
 - 💬 Ask me about **my passion for making learning fun and my projects with local AI!**
 
+
+Check out Koa here: <a href="https://gamejolt.com/games/koa/457938" target="_blank">
+  <img src="Koa%20Icon%20Borderless.png" alt="Koa Icon" width="40">
+</a>
+
+
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
   <span title="Unity"> <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity"  /> </span>
