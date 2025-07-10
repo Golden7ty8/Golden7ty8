@@ -10,6 +10,8 @@ Check out Koa here: <a href="https://gamejolt.com/games/koa/457938" target="_bla
   <img src="Koa%20Icon%20Borderless.png" alt="Koa Icon" width="40">
 </a>
 
+Or check out the [**GitHub repository**](https://github.com/Golden7ty8/Koa).
+
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left">
