@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alastair</h1>
-<h3 align="center">A software developer from Canada.</h3>
+<h3 align="center">A creative software developer from Canada.</h3>
 
 - 🔭 I’m currently working on [**Scrollbound Depths**](https://github.com/Golden7ty8/Scrollbound-Depths).
 
