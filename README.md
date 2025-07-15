@@ -8,11 +8,13 @@
 - 💬 Ask me about **my passion for making learning fun and my projects with local AI!**
 
 
-Check out Koa here: <a href="https://gamejolt.com/games/koa/457938" target="_blank">
+<!--<a href="https://gamejolt.com/games/koa/457938" target="_blank">
   <img src="Koa%20Icon%20Borderless.png" alt="Koa Icon" width="40">
-</a>
-
-Or check out the [**GitHub repository**](https://github.com/Golden7ty8/Koa).
+</a>-->
+<!--Check out Koa here: 
+- [**Gamejolt Download Page**](https://gamejolt.com/games/koa/457938) 
+- [**Trailer**](https://www.youtube.com/watch?v=v8kgii--0J8)
+- [**GitHub**](https://github.com/Golden7ty8/Koa)-->
 
 
 <h2 align="left">Languages and Tools:</h2>
