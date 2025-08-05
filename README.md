@@ -56,6 +56,8 @@
 ###
 
 <div align="left">
+  <span title="Docker"> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /> </span>
+  <img width="12" />
   <span title="PyTorch"> <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch"  /> </span>
   <img width="12" />
   <span title="TensorFlow"> <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  /> </span>
