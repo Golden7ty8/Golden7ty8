@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alastair</h1>
 <h3 align="center">A creative software developer from Canada.</h3>
 
-- 🔭 I’m currently working on [**The-Strange-Grocery-Store--HG-GJ**](The-Strange-Grocery-Store--HG-GJ) for [**HG-GJ: The HealthyGamer Game Jam**](https://itch.io/jam/hg-gj).
+- 🔭 I’m currently working on [**The-Strange-Grocery-Store--HG-GJ**](https://github.com/Golden7ty8/The-Strange-Grocery-Store--HG-GJ) for [**HG-GJ: The HealthyGamer Game Jam**](https://itch.io/jam/hg-gj).
 
 - 🌱 I’m currently learning [**n8n**](https://n8n.io/).
 
